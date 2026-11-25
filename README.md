@@ -1,4 +1,9 @@
-## Hi there 👋
+## Привет!👋 Меня зовут Егор.
+
+
+Если у вас есть вопросы или предложения - пишите в Telegram.
+Я открыт к стажировке и готов учиться новому.
+Telegram: @aev_hs
 
 <!--
 **AnanevDA/AnanevDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
